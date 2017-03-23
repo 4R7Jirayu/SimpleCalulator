@@ -1,0 +1,21 @@
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.exe
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.pdb
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.xml
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.Calculator.resources
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.FormCal.resources
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.Resources.resources
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.vbproj.GenerateResource.Cache
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.exe
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.xml
+c:\users\csitgis\documents\visual studio 2012\Projects\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.pdb
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.exe
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.xml
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.pdb
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.exe
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.pdb
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\bin\Debug\Lab1VbApp.xml
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.vbprojResolveAssemblyReference.cache
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.Calculator.resources
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.FormCal.resources
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.Resources.resources
+C:\Users\4R7\Google Drive\ICT_KKU\322239_DatabaseApp\Ex_Program\Lab1VbApp\Lab1VbApp\obj\Debug\Lab1VbApp.vbproj.GenerateResource.Cache
