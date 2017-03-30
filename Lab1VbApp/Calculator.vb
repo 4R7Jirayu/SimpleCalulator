@@ -87,7 +87,7 @@
     End Sub
 
     Private Sub Btn_addpoint_Click(sender As Object, e As EventArgs) Handles Btn_addpoint.Click
-        screen.Text += "385.6"
+        screen.Text += "."
     End Sub
 
     Private Sub Btn_clearall_Click(sender As Object, e As EventArgs) Handles Btn_clearall.Click
